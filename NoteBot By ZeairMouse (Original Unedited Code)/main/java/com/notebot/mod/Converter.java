@@ -53,7 +53,7 @@ public class Converter
         int timesignum = 4;
         int timesigden = 4;
         int bpm = 120;
-        int mspqn = 500000;
+        int mspqn = 5000000;
 
         int res = seq.getResolution();
 
